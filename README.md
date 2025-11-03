@@ -141,7 +141,7 @@ Sinta-se livre para usar e modificar conforme necessário.
 
 📍 Endereço: Av Guapira, 59 – São Paulo/SP – CEP 01001-000
 
-🌐 Website: https://welisson00.github.io/WELISSON00-Projeto-ONG-2-CSS/
+🌐 Website: https://welisson00.github.io/Projeto-ONG-2-CSS/
 
 📱 Instagram: @ongavanca
 
